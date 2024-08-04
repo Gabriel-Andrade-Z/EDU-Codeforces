@@ -1,2 +1,2 @@
-# EDU-Codeforces
-All questions of EDU Codeforces
+# Codeforces-EDU
+All questions of Codeforces EDU
